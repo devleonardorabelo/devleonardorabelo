@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-devleonardorabelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devleonardorabelo@gmail.com)](mailto:devleonardorabelo@gmail.com)
 
 ## Olá!
-Eu sou o Leonardo Rabelo.
+Eu me chamo Leonardo Rabelo.
 Sou um Desenvolvedor Full Stack :computer:
 
 - :hamburger:   Atualmente trabalhando no projeto da **Carpede**
