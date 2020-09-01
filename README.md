@@ -8,3 +8,4 @@ Sou um Desenvolvedor Full Stack :computer:
 - :hamburger:   Atualmente trabalhando no projeto da **Carpede**
 - :heart:   React Native
 - :computer:   React Native, ReactJS e Node
+- :book: <a href="https://curriculum-leonardorabelo.herokuapp.com">Meu currículo</a>
