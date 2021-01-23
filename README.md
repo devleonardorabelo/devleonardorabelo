@@ -5,7 +5,7 @@
 Eu me chamo Leonardo Rabelo.
 Sou um Desenvolvedor Full Stack :computer:
 
-- :hamburger:   Atualmente trabalhando no projeto da **Carpede**
+- :hamburger:   Atualmente trabalhando na Ponto a Ponto
 - :heart:   React Native
 - :computer:   React Native, ReactJS e Node
 - :book: <a href="https://curriculum-leonardorabelo.herokuapp.com">Meu currículo</a>
